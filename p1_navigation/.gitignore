@@ -1,0 +1,6 @@
+Banana.app/
+VisualBanana.app/
+.ipynb_checkpoints/
+__pycache__/
+*.log
+.DS_Store

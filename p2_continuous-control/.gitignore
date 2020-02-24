@@ -1,0 +1,6 @@
+Reacher.app/
+Reacher20.app/
+.ipynb_checkpoints/
+__pycache__/
+*.log
+.DS_Store
